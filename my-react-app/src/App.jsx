@@ -7,7 +7,7 @@ import './App.css'
 function App() {
 return (
   <div className="App">
-    <h1>Hello World</h1>
+    <h1 >Hello World</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio laborum delectus ex, veniam officiis laboriosam repellat asperiores cum voluptatibus vero!</p>
   </div>
 )  
